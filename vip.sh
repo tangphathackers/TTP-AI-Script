@@ -349,7 +349,6 @@ properties=(
 "debug.javafx.animation.framerate=120"
 "debug.rs.animation.framerate=120"
 "debug.sf.animation.framerate=120"
-"debug.sf.touch_boost_refreshrate=1"
 "debug.javafx.animation.fullspeed=true"
 "debug.app.performance_restricted=false"
 # Graphics and UI Settings:
@@ -1538,7 +1537,6 @@ settings put global thermal_state 0
 settings put global sensor_freeze_temperature 1
 settings put global default_notification_channel_importance 4
 settings put global policy_control high_performance
-settings put global min_touch_delay -1
 settings put global GLES_RENDERER_HIGH_PERFORMANCE 1
 settings put global always_disable_vsync 1
 settings put global opengl_force4x_msaa 1
@@ -1615,7 +1613,6 @@ settings put global surface_flinger_max_fps 120
 settings put global game_driver_prerelease_enabled 1
 settings put global minimum_refresh_rate 120
 settings put global min_refresh_rate 120
-settings put global android_touch_target_size -1
 settings put global tcp_default_init_rwnd 256960
 settings put global adaptive_battery_management 0
 settings put global battery_saver_constants 30
@@ -1814,7 +1811,6 @@ settings put global cgroup_memory_pressure_supercompress_threshold 80
 settings put global cgroup_memory_pressure_supercompress_decay_ms 600000
 #scroll
 setprop debug.sf.scroll_boost_refreshrate 1
-setprop debug.sf.touch_boost_refreshrate 1
 #RamBooster
 setprop debug.renderscript true
 setprop debug.rs.max-threads 2
