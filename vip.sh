@@ -112,7 +112,7 @@ done
 
 # Script ngăn chặn công cụ giải mã
 echo "Chào mừng đến với script của tôi!"
-cmd notification post -S bigtext -t '🇻🇳SVN Shell Script Non Root🇻🇳' 'Tag' '✈️Installing SVN Gen 2 VIP🥳' > /dev/null 2>&1
+cmd notification post -S bigtext -t '🇻🇳SVN Shell Script Non Root🇻🇳' 'Tag' '✈️Installing SVN Gen 3 VIP🥳' > /dev/null 2>&1
 echo ""
 echo ""
 echo ""
