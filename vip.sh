@@ -112,7 +112,7 @@ done
 
 # Script ngăn chặn công cụ giải mã
 echo "Chào mừng đến với script của tôi!"
-cmd notification post -S bigtext -t '🇻🇳SVN Shell Script Non Root🇻🇳' 'Tag' '✈️Installing SVN Gen 2 VIP🥳' > /dev/null 2>&1
+cmd notification post -S bigtext -t '🇻🇳SVN Shell Script Non Root🇻🇳' 'Tag' '✈️Installing SVN Gen 3 Ultimated VIP🥳' > /dev/null 2>&1
 echo ""
 echo ""
 echo ""
@@ -192,6 +192,7 @@ echo "🔑Encode Script:SHC,Bash-obfuscate,Base64"
 echo "🔑Encode Dev:Tăng Phát"
 echo "🔑Encode Script:TTP Thiện Phát"
 echo "📨Telegram Group:https://t.me/nonrootvipshell"
+echo "Youtuber:@TangPhat_Wisdomlikethesea"
 echo "»»————————————⍟————————————««"
 echo "🔁Installing Performance Tweaks"
 echo ""
