@@ -1697,6 +1697,50 @@ settings put global cgroup_memory_pressure_enabled 1
 settings put global cgroup_memory_pressure_supersaturation 100
 settings put global cgroup_memory_pressure_supercompress_threshold 80
 settings put global cgroup_memory_pressure_supercompress_decay_ms 600000
+settings put global dolby_enabled 1
+settings put global audio_cgroup_enabled 1
+settings put global audio_policy_cgroup_bg_cg 1
+settings put global audio.device.name harman_kardon
+settings put secure media.hwcodec.cgroup.enabled 1
+settings put global media.hwcodec.cgroup.enabled 1
+settings put secure sys.fps.enable_hal_fps_listener 1
+settings put secure frame_rate_auto false
+settings put global frame_rate_auto false
+settings put secure frame_rate -1
+settings put global frame_rate -1
+settings put secure device_name Xiaomi 13
+settings put global device_name Xiaomi 13
+settings put secure sysui_status_bar_custom_label Xiaomi 13
+settings put global sysui_status_bar_custom_label Xiaomi 13
+settings put secure audio_policy_class com.android.server.audio.AudioService
+settings put global audio_policy_class com.android.server.audio.AudioService
+settings put secure audio_policy_cgroup_bg_supported 1
+settings put global audio_policy_cgroup_bg_supported 1
+settings put secure volume_boost_mode 2
+settings put global volume_boost_mode 2
+settings put global dts_sound 1
+settings put global cgroup.snd.dts_enabled 1
+settings put global aosp_dts_enabled 1
+settings put global device_smart_battery_feature_enabled 1
+settings put global power_manager_constants smart_battery_optimization=true
+settings put global cpu.useihl 1
+settings put global cpupower.governor schedutil
+settings put global cpupower.sched_boost 0
+settings put global swap_on zram
+settings put global swap_ratio 20
+settings put global power_profile 1
+settings put global background_limit 0
+settings put global background_limit:allow_all 1
+settings put global notification_channel_group_defaults importance -2
+settings put global cgroup.notification_override_state 1
+settings put global gfx.optimize_trueapps 1
+settings put global graphics.cgroup.enabled 1
+settings put global vendor.cpu.schedtune.boost 100
+settings put global device_monitoring_policy 1
+settings put global sys.gpu.profiling.level 3
+settings put global sys.gpu.power_profile high_performance
+settings put global surface_flinger_max_ms_before_vsync -1
+settings put global display_quality_level 2
 #scroll
 setprop debug.sf.scroll_boost_refreshrate 1
 #RamBooster
@@ -2092,6 +2136,13 @@ setprop debug.nnapi.cgroup_control 1
 setprop debug.nnapi.options fast-ref-count
 setprop debug.cameras.cgroup.enabled 1
 setprop debug.audio.cgroup.enabled 1
+setprop debug.sys.net.use_dns_cache 8
+setprop debug.cgroup.cpu_accounting 1
+setprop debug.cgroup.cpu_latency 1
+setprop debug.cgroup.io_latency 1
+setprop debug.cgroup.cpu_rt_runtime_us -1
+setprop debug.cgroup.io_rt_runtime_us -1
+setprop debug.thermal_control 2
 }
 mtk > /dev/null 2>&1
 sleep 2
