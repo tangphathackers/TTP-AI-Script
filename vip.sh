@@ -69,6 +69,7 @@ sleep 0.3
 echo "🔧 CPU               ➡️ $(getprop ro.product.cpu.abi)"
 sleep 0.3
 echo "🔧 Build             ➡️ $(getprop ro.build.description)"
+sleep 0.3
 echo "🔧 SocModel          ➡️ $(getprop ro.soc.model)"
 sleep 0.3
 echo "»»————————————⍟————————————««"
