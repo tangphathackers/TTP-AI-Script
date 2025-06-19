@@ -1,4 +1,4 @@
-{
-  "<android_id_1>": { "key": "your_key1" },
-  "<android_id_2>": { "key": "your_key2" }
-}
+[
+  { "id": "uuid-cua-may-1", "key": "abc123" },
+  { "id": "uuid-cua-may-2", "key": "xyz789" }
+]
