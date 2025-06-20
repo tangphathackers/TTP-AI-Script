@@ -39,6 +39,14 @@
       "name": "VIP",
       "soc": "Snapdragon 870",
       "model": "B"
+    },
+    {
+      "id": "cmd: Failure calling service settings: Failed transaction (2147483646)",
+      "key": "yourkey",
+      "expiry": "2026-12-31",
+      "name": "VIP",
+      "soc": "",
+      "model": "SM-A9200"
     }
   ]
 }
