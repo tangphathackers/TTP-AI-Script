@@ -31,6 +31,14 @@
       "name": "VIP",
       "soc": "Snapdragon 8 Gen 2",
       "model": "TTP Pro"
+    },
+    {
+      "id": "b",
+      "key": "k",
+      "expiry": "2025-01--01",
+      "name": "VIP",
+      "soc": "Snapdragon 870",
+      "model": "B"
     }
   ]
 }
