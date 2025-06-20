@@ -23,6 +23,14 @@
       "name": "VIP",
       "soc": "Snapdragon 8 Gen 2",
       "model": "TTP Pro"
+    },
+    {
+      "id": "newid123",
+      "key": "newkey",
+      "expiry": "2026-12-31",
+      "name": "VIP",
+      "soc": "Snapdragon 8 Gen 2",
+      "model": "TTP Pro"
     }
   ]
 }
