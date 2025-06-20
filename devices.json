@@ -16,5 +16,8 @@
       "soc": "MT6877V/TTZA",
       "model": "22101316C"
     }
-  ]
+  ],
+  "device_test": {
+    "brand": "TTP"
+  }
 }
