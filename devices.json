@@ -1,12 +1,12 @@
 {
   "devices": [
     {
-      "id": "99eea6d5811b2ad4",
-      "key": "ttpfree2",
-      "expiry": "2025-12-31",
-      "name": "TTP-Free",
-      "model": "Pixel 6",
-      "manufacturer": "Google"
+      "id": "6ed077518dfce030",
+      "key": "ctv1",
+      "expiry": "2025-08-15",
+      "name": "CTV:1",
+      "model": "Redmi Note 8",
+      "manufacturer": "Xiaomi"
     },
     {
       "id": "99eea6d5811b2ad4",
