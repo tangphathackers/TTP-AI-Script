@@ -24,6 +24,15 @@
       "model": "",
       "manufacturer": ""
     },
+    // lmt
+    {
+      "id": "3cfb043bd019f1A226B7e", 
+      "key": "lmt",
+      "expiry": "2025-07-20",
+      "name": "Key Vip lmt",
+      "model": "SM-A226B",
+      "manufacturer": "samsung"
+    },
     {
       "id": "99eea6d5811b2ad4",
       "key": "vipkey000",
