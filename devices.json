@@ -3,7 +3,7 @@
     {
       "id": "6ed077518dfce030",
       "key": "ctv1",
-      "expiry": "2025-08-15",
+      "expiry": "2025-07-20",
       "name": "CTV:1",
       "model": "Redmi Note 8",
       "manufacturer": "Xiaomi"
@@ -32,6 +32,7 @@
       "model": "SM-A226B",
       "manufacturer": "samsung"
     },
+    < admin
     {
       "id": "99eea6d5811b2ad4",
       "key": "vipkey000",
