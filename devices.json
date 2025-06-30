@@ -25,6 +25,14 @@
       "manufacturer": ""
     },   
     {
+      "id": "e980bdfcaa0f3f98", 
+      "key": "1",
+      "expiry": "2025-11-01",
+      "name": "Key Vip: Minh Trường",
+      "model": "SM-A366B",
+      "manufacturer": "samsung"
+    },   
+    {
       "id": "3cfb043bd019f17e", 
       "key": "lmt",
       "expiry": "2025-07-20",
